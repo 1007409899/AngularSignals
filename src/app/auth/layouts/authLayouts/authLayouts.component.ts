@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-authLayouts',
   templateUrl: './authLayouts.component.html',
-  styleUrls: ['./authLayouts.component.css']
+  styleUrls: ['./authLayouts.component.scss']
 })
 export class AuthLayoutsComponent implements OnInit {
 
